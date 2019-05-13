@@ -1,3 +1,6 @@
+html {
+    scroll-behavior: smooth;
+}
 body {
      max-width: 1000px;
      margin: auto;
@@ -44,19 +47,6 @@ header nav ul li a:hover {
         align-items: center;
     }
 }
-header h2 {
-    text-align: center;
-    text-transform: uppercase;
-    font-family: 'Dancing Script', cursive;
-    color: yellow;
-    position:absolute;
-}
-header .mainimage img{
-     display: block;
-  margin-left: auto;
-  margin-right: auto;
-  padding-left: 10px;
-}
 h2,p {
     font-family: 'Dancing Script', cursive;
 }
@@ -83,6 +73,7 @@ h2,p {
 }
 form label{
     font-weight: bold;
+    font-family: "Indie Flower", cursive;
 }
 button{
 transform: translate(-50%,-50%);
