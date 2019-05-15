@@ -200,9 +200,8 @@ animation-delay: 1s;
    -webkit-border-radius: 3px;
    background: #ffffff;
    outline: none;
-   height: 30px; 
-   width: 150px; 
+   height: 40px; 
+   width: 300px; 
    color: #cccccc;
-   font-size: 11px;
-   font-family:"Indie Flower", cursive;
+   font-size: 20px;
 }
