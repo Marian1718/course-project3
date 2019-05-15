@@ -16,7 +16,7 @@ function currConvert(e) {
         });
 }
 
-$(function() {
+$(function scroll() {
   $('.smooth').on('click', function(event) {
     const target = $(this.getAttribute('href'));
     if (target.length) {
