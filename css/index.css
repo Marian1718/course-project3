@@ -194,14 +194,14 @@ animation-delay: 1s;
     padding:10px 10px;
 }
 
-    input[type="text"] {
+    input {
    border: 1px solid #cccccc; 
    border-radius: 3px;
    -webkit-border-radius: 3px;
    background: #ffffff;
    outline: none;
-   height: 24px; 
-   width: 120px; 
+   height: 30px; 
+   width: 150px; 
    color: #cccccc;
    font-size: 11px;
    font-family:"Indie Flower", cursive;
